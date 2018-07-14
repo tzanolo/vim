@@ -1,0 +1,8 @@
+Arquivo escrito por tzm
+
+Após atualizar qualquer item do projeto no git, precisa anotar uma descrição das mudanças, depois comandar para ele marcar quais são os arquivos que serão atualizados no repositório, e por último, sincronizar:
+DESCRIÇÃO:
+ATUALIZAÇÃO DA LISTA:
+SINCRONIAR PUSH:
+
+eof

@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 int main(void) {
-  printf("Hello World\n");
+  int ret = 0;
+  ret = printf("Hello World\n");
   printf("Teste de texto do Tzanolo\n");
+  printf("Retorno da printf() anterior: %d\n", ret);
   return 0;
 }
