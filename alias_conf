@@ -1,0 +1,9 @@
+#comandos de alias feitos por TZANOLO
+
+#deixa o texto do "man" coloridos
+export "PAGER"=most
+
+alias vi="vim"
+alias beep="aplay /usr/share/sounds/purple/alert.wav"
+alias nano="vim"
+alias tzm="ssh root@tzanolo.com.br"

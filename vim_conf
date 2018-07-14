@@ -1,0 +1,19 @@
+"arquivo de configuração do vim pelo tzanolo
+
+set nu "numeracao de linhas
+syntax on
+set showmatch
+set mouse=a
+set et
+set nocompatible
+set encoding=utf-8
+set showcmd
+filetype plugin indent on
+set tabstop=2 shiftwidth=2
+set expandtab
+set backspace=indent,eol,start
+set hlsearch
+set incsearch
+set ignorecase
+set smartcase
+set history=50
