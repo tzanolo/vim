@@ -1,0 +1,10 @@
+Daqui para baixo, colar no arquivo .bashrc do perfil atual, para poder ter um arquivo de alias (.bash_aliases) separado:
+
+# Alias definitions.
+# You may want to put all your additions into a separate file like
+# ~/.bash_aliases, instead of adding them here directly.
+# See /usr/share/doc/bash-doc/examples in the bash-doc package.
+
+if [ -f ~/.bash_aliases ]; then
+    . ~/.bash_aliases
+fi
